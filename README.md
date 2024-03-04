@@ -8,7 +8,7 @@ In February 2024, I conducted a comprehensive data analysis project focusing on 
 
 **Project Objectives:**
 
-1. **Data Analysis:** The primary objective was to analyze a large dataset of retail sales transactions to identify significant trends and patterns. This involved examining various factors such as sales distribution by gender, age group, location, marital status, occupation, and product category.
+1. **Data Analysis:** The primary objective was to analyze a large dataset of retail sales transactions to identify significant trends and patterns. This involved examining various factors such as sales distribution by product category, subcategory, Customer segment, region and province.
 
 2. **Visualization:** The project aimed to generate insightful visualizations and graphical representations to effectively communicate findings. Visualizations such as bar charts, pie charts, and heatmaps were utilized to present sales trends and patterns in a clear and intuitive manner.
 
