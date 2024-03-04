@@ -14,7 +14,7 @@ In February 2024, I conducted a comprehensive data analysis project focusing on 
 
 3. **Insight Generation:** By conducting statistical analysis and data mining techniques, the project aimed to extract actionable insights from the sales data. These insights would enable stakeholders to make informed decisions and strategic planning to optimize sales strategies and target specific customer segments effectively.
 ![Retail Sales Dashboard](D_001.jpg)
-
+![Retail Sales Dashboard](D_002.jpg)
 
 **Development Process:**
 
