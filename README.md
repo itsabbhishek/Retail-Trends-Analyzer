@@ -13,6 +13,8 @@ In February 2024, I conducted a comprehensive data analysis project focusing on 
 2. **Visualization:** The project aimed to generate insightful visualizations and graphical representations to effectively communicate findings. Visualizations such as bar charts, pie charts, and heatmaps were utilized to present sales trends and patterns in a clear and intuitive manner.
 
 3. **Insight Generation:** By conducting statistical analysis and data mining techniques, the project aimed to extract actionable insights from the sales data. These insights would enable stakeholders to make informed decisions and strategic planning to optimize sales strategies and target specific customer segments effectively.
+![Retail Sales Dashboard](D_001.jpg)
+
 
 **Development Process:**
 
