@@ -1,7 +1,5 @@
 # Retail Trends Analyzer: Analyzing Retail Sales Data using Python
 
-## February, 2024
-
 **Project Overview:**
 
 In February 2024, I conducted a comprehensive data analysis project focusing on retail sales data using Python. The project aimed to uncover significant trends and patterns within the sales dataset, enabling stakeholders to make informed decisions and optimize sales strategies.
